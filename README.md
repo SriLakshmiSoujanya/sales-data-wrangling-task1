@@ -31,14 +31,12 @@ Power Query
 
 📁 Repository Structure
 📦 sales-data-wrangling-task1
-│
-├── 01_raw_sales.csv
-├── 02_data_profiling.pbix
-├── 03_data_dictionary.pbix
-├── 04_data_cleaning.pbix
-├── 05_final_dataset.pbix
-│
-└── README.md
+-> 01_raw_sales.csv
+-> 02_data_profiling.pbix
+-> 03_data_dictionary.pbix
+-> 04_data_cleaning.pbix
+-> 05_final_dataset.pbix
+-> README.md
 
 
 👉 Open the files in numerical order using Power BI Desktop to follow the full workflow.
